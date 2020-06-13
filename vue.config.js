@@ -7,7 +7,7 @@ module.exports = {
         loaderOptions: {
             sass: {
                 // 新版本sass-loader， 将data改成prependData进行配置
-                Data: `@import "@/assets/scss/_variable.scss";`
+                prependData: `@import "@/assets/scss/_variable.scss";`
             }
         }
     }
