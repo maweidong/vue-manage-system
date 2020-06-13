@@ -9,7 +9,7 @@ home
     mounted(){
       this.$http.get('/home/getData').then(
         res=>{
-          console.log(res.data)
+          console.log(res.data )
         }
       )
     }
