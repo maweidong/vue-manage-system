@@ -9,9 +9,9 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1. ![Image text](https://gitee.com/maweidong/vue-manage-system/blob/master/public/image/echarts.png)
+2. ![Image text](https://gitee.com/maweidong/vue-manage-system/blob/master/public/image/user.png)
+
 
 #### 使用说明
 
