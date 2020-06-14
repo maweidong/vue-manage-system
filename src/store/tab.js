@@ -57,8 +57,6 @@ export default {
 
         },
 
-
-
         selectMenu(state, val) {
             if (val.name !== 'home') {
                 state.currentMenu = val
