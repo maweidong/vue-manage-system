@@ -25,10 +25,10 @@ export default {
         },
 
         addMenu(state, router) {
-            let menu = JSON.parse(Cookie.get('menu'))
-            if (!menu) {
+            if (!Cookie.get('menu')) {
                 return
             }
+            let menu = JSON.parse(Cookie.get('menu'))
             state.menu = menu
 
             //动态路由

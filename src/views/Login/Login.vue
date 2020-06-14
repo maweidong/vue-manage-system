@@ -31,6 +31,7 @@ export default {
         if (res.code === 20000) {
           this.$store.commit('clearMenu')
           this.$store.commit('setMenu', res.data.menu)
+          //将token设置到cookie中
           this.$store.commit('setToken', res.data.token)
           //addMenu方法在vuex中的tab.js中定义,用来获取动态路由，展示菜单
           this.$store.commit('addMenu', this.$router)
