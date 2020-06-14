@@ -9,8 +9,8 @@
 
 #### 安装教程
 
-1. ![Image text](https://gitee.com/maweidong/vue-manage-system/blob/master/public/image/echarts.png)
-2. ![Image text](https://gitee.com/maweidong/vue-manage-system/blob/master/public/image/user.png)
+1. ![Image](https://gitee.com/maweidong/vue-manage-system/blob/master/public/image/echarts.png)
+2. ![Image](https://gitee.com/maweidong/vue-manage-system/blob/master/public/image/user.png)
 
 
 #### 使用说明
